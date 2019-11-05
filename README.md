@@ -1,2 +1,3 @@
 # HW_6_Python_APIs
-This HW uses weather API's to prove surface temperatures get warmer as one gets closer to the equator 
+This SMU homework exercise uses Python to drive weather API's. The code uses real data to demonstrate 
+objectively what is intuitive: that surface temperatures get warmer as one gets closer to the equator.
